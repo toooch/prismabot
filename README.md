@@ -10,6 +10,8 @@ Hieronder volgen alle versies van de bot met de aanpassingen die zijn gemaakt
 - Changelog toegevoegd
 - Info slashcommand toegevoegd
 - Functie toegevoegd waarbij de bot de setup initieerd in het aangewezen logkanaal
+- Activity Status toegevoegd met aantal leden in de server
+- Over Mij toegevoegd
 - Probleem opgelost waarbij de bot crashde zodra iemand joinde met gesloten DM's
 - Overige bugfixes
 <br>
