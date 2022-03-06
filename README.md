@@ -6,9 +6,15 @@ Dit is een repository voor informatie over de bot gebruikt in de [Prisma Rolepla
 # Releases
 Hieronder volgen alle versies van de bot met de aanpassingen die zijn gemaakt
 
-## v1.1.0
+## v1.2.0
+- Changelog toegevoegd
+- Info slashcommand toegevoegd
 - Functie toegevoegd waarbij de bot de setup initieerd in het aangewezen logkanaal
 - Probleem opgelost waarbij de bot crashde zodra iemand joinde met gesloten DM's
+- Overige bugfixes
+<br>
+
+## v1.1.0
 - Overige bugfixes
 <br>
 
