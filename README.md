@@ -9,6 +9,8 @@ Hieronder volgen alle versies van de bot met de aanpassingen die zijn gemaakt
 ## v1.2.0
 - Changelog toegevoegd
 - Info slashcommand toegevoegd
+- Beheer slashcommand toegevoegd
+  - Mute, kick en ban knoppen alleen te gebruiken door staffleden 
 - Functie toegevoegd waarbij de bot de setup initieerd in het aangewezen logkanaal
 - Activity Status toegevoegd met aantal leden in de server
 - Over Mij toegevoegd
