@@ -11,14 +11,17 @@ Hieronder volgen alle versies van de bot met de aanpassingen die zijn gemaakt
 - Info slashcommand toegevoegd
 - Beheer slashcommand toegevoegd
   - Mute, kick en ban knoppen alleen te gebruiken door staffleden 
-- Functie toegevoegd waarbij de bot de setup initieerd in het aangewezen logkanaal
 - Activity Status toegevoegd met aantal leden in de server
 - Over Mij toegevoegd
-- Probleem opgelost waarbij de bot crashde zodra iemand joinde met gesloten DM's
 - Overige bugfixes
 <br>
 
 ## v1.1.0
+- Functie toegevoegd waarbij de bot de setup initieerd in het aangewezen logkanaal
+- Probleem opgelost waarbij de bot crashde zodra iemand joinde met gesloten DM's
+<br>
+
+## v1.0.1
 - Overige bugfixes
 <br>
 
