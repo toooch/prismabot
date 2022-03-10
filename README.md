@@ -25,7 +25,7 @@ Hieronder volgen alle versies van de bot met de aanpassingen die zijn gemaakt
 <br>
 
 ## v1.0.1
-- Overige bugfixes
+- Bugfixes
 <br>
 
 ## v1.0.0 (eerste release)
