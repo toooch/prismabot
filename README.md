@@ -13,6 +13,7 @@ Hieronder volgen alle versies van de bot met de aanpassingen die zijn gemaakt
   - Mute, kick en ban knoppen alleen te gebruiken door staffleden 
 - Activity Status toegevoegd met aantal leden in de server
 - Over Mij toegevoegd
+- Verificatielog geeft nu aan wie de verificatie heeft geaccepteerd/geweigerd
 - Probleem opgelost waarbij de geweigerde rol niet werd weggehaald als de herstuurde vragen worden geaccepteerd
 - Verificatiesysteem omgegooid om een backlog te voorkomen als iemand DM's gesloten heeft
 - Overige bugfixes
