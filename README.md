@@ -6,6 +6,11 @@ Dit is een repository voor informatie over de bot gebruikt in de [Prisma Rolepla
 # Releases
 Hieronder volgen alle versies van de bot met de aanpassingen die zijn gemaakt
 
+## v1.2.1
+- Werknemer slashcommand toegevoegd. Makkelijker rollen aan werknemers geven voor leidinggevenden
+- Bugfixes
+<br>
+
 ## v1.2.0
 - Changelog toegevoegd
 - Info slashcommand toegevoegd
