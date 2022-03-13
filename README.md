@@ -8,6 +8,7 @@ Hieronder volgen alle versies van de bot met de aanpassingen die zijn gemaakt
 
 ## v1.2.1
 - Werknemer slashcommand toegevoegd. Makkelijker rollen aan werknemers geven voor leidinggevenden
+- Setup vervangen voor slimmer, automatisch systeem
 - Bugfixes
 <br>
 
