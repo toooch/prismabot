@@ -6,6 +6,12 @@ Dit is een repository voor informatie over de bot gebruikt in de [Prisma Rolepla
 # Releases
 Hieronder volgen alle versies van de bot met de aanpassingen die zijn gemaakt
 
+## v1.2.2
+- Probleem opgelost waarbij een roleplay-naam langer dan 32 tekens een crash veroorzaakte
+- /werknemer bijgewerkt voor Burgerhost rollen
+- /werknemer toegevoegd aan lijst met commands
+- Overige bugfixes
+
 ## v1.2.1
 - Werknemer slashcommand toegevoegd. Makkelijker rollen aan werknemers geven voor leidinggevenden
 - Setup vervangen voor slimmer, automatisch systeem
