@@ -10,6 +10,7 @@ Hieronder volgen alle versies van de bot met de aanpassingen die zijn gemaakt
 - Probleem opgelost waarbij een roleplay-naam langer dan 32 tekens een crash veroorzaakte
 - /werknemer bijgewerkt voor Burgerhost rollen
 - /werknemer toegevoegd aan lijst met commands
+- Verificatieverzoek bevat nu een tag naar de gebruiker
 - Overige bugfixes
 
 ## v1.2.1
